@@ -1,6 +1,6 @@
 I keep getting an error every time I try to 
 
-** sudo apt update**
+**sudo apt update**
 
 **Updates for this repository will not be applied.**
 
